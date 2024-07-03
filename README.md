@@ -59,8 +59,9 @@ The repository is organized as follows:
 
 ### Prerequisites
 
-- Python 3.7+
-- Git
+## Python 3.7+
+## Git
+## C++
 
 Contributing
 Contributions are welcome! If you have a better solution or an alternative approach, feel free to create a pull request. Please ensure your code adheres to the following guidelines:
